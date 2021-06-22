@@ -210,10 +210,10 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   indicator: {
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.5,
-    shadowRadius: 2,
-    elevation: 5
+    // shadowOffset: { width: 0, height: 2 },
+    // shadowOpacity: 0.5,
+    // shadowRadius: 2,
+    // elevation: 5
   },
   activeView: {
     marginRight: 3,
