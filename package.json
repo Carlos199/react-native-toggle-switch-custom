@@ -1,7 +1,7 @@
 {
   "name": "rn-toggle-switch-custom",
-  "version": "1.0.0",
-  "description": "A toggle switch implementation using ScrollView",
+  "version": "1.0.1",
+  "description": "A toggle switch implementation using ScrollView customized",
   "main": "index.js",
   "scripts": {
     "test": "jest"
